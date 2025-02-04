@@ -7,3 +7,6 @@ This is line 3
 7th line for 3rd commit
 mango feature 7th line
 orange feature 7th line
+grape feature 8th line
+apple feature 9th line
+banana feature 10th line
